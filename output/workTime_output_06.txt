@@ -1,0 +1,186 @@
+date: 0601
+actual arrive time: 09:16
+actual leave time: 19:38
+calculate leave time: 18:46
+overWorked hours in minutes: 52
+hours: 0
+
+
+date: 0602
+actual arrive time: 09:09
+actual leave time: 21:09
+calculate leave time: 18:39
+overWorked hours in minutes: 150
+hours: 2
+
+
+date: 0603
+actual arrive time: 09:15
+actual leave time: 21:41
+calculate leave time: 18:45
+overWorked hours in minutes: 176
+hours: 2
+
+
+date: 0604
+actual arrive time: 10:50
+actual leave time: 22:16
+calculate leave time: 20:20
+overWorked hours in minutes: 116
+hours: 1
+
+
+date: 0605
+actual arrive time: 13:20
+actual leave time: 18:43
+is Saturday, only cal diff
+overWorked hours in minutes: 323
+hours: 5
+
+
+date: 0607
+actual arrive time: 09:30
+actual leave time: 19:43
+calculate leave time: 19:00
+overWorked hours in minutes: 43
+hours: 0
+
+
+date: 0608
+actual arrive time: 09:49
+actual leave time: 22:51
+calculate leave time: 19:19
+overWorked hours in minutes: 212
+hours: 3
+
+
+date: 0609
+actual arrive time: 09:43
+actual leave time: 22:28
+calculate leave time: 19:13
+overWorked hours in minutes: 195
+hours: 3
+
+
+date: 0610
+actual arrive time: 13:43
+actual leave time: 20:59
+calculate leave time: 23:13
+overWorked hours in minutes: -134
+hours: -2
+
+
+date: 0611
+actual arrive time: 09:06
+actual leave time: 20:12
+calculate leave time: 18:36
+overWorked hours in minutes: 96
+hours: 1
+
+
+date: 0612
+actual arrive time: 13:45
+actual leave time: 18:23
+is Saturday, only cal diff
+overWorked hours in minutes: 278
+hours: 4
+
+
+date: 0615
+actual arrive time: 09:50
+actual leave time: 18:43
+calculate leave time: 19:20
+overWorked hours in minutes: -37
+hours: 0
+
+
+date: 0616
+actual arrive time: 09:33
+actual leave time: 20:30
+calculate leave time: 19:03
+overWorked hours in minutes: 87
+hours: 1
+
+
+date: 0617
+actual arrive time: 09:47
+actual leave time: 20:03
+calculate leave time: 19:17
+overWorked hours in minutes: 46
+hours: 0
+
+
+date: 0618
+actual arrive time: 13:48
+actual leave time: 22:03
+calculate leave time: 23:18
+overWorked hours in minutes: -75
+hours: -1
+
+
+date: 0621
+actual arrive time: 09:52
+actual leave time: 19:35
+calculate leave time: 19:22
+overWorked hours in minutes: 13
+hours: 0
+
+
+date: 0622
+actual arrive time: 09:19
+actual leave time: 20:14
+calculate leave time: 18:49
+overWorked hours in minutes: 85
+hours: 1
+
+
+date: 0623
+actual arrive time: 09:35
+actual leave time: 20:06
+calculate leave time: 19:05
+overWorked hours in minutes: 61
+hours: 1
+
+
+date: 0624
+actual arrive time: 10:03
+actual leave time: 19:26
+calculate leave time: 19:33
+overWorked hours in minutes: -7
+hours: 0
+
+
+date: 0625
+actual arrive time: 09:52
+actual leave time: 20:09
+calculate leave time: 19:22
+overWorked hours in minutes: 47
+hours: 0
+
+
+date: 0628
+actual arrive time: 09:34
+actual leave time: 22:33
+calculate leave time: 19:04
+overWorked hours in minutes: 209
+hours: 3
+
+
+date: 0629
+actual arrive time: 09:50
+actual leave time: 21:38
+calculate leave time: 19:20
+overWorked hours in minutes: 138
+hours: 2
+
+
+date: 0630
+actual arrive time: 09:44
+actual leave time: 18:38
+calculate leave time: 19:14
+overWorked hours in minutes: -36
+hours: 0
+
+
+total overWorked hours: 26
+
